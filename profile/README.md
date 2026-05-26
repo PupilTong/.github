@@ -17,7 +17,7 @@
 ## Projects
 
 ### [Lynx Web Platform](https://github.com/lynx-family) · *Project Owner*
-Open-source web runtime serving **200M+ daily page views**.
+Open-source web runtime built with **Rust** and **WebAssembly**.
 
 ### [Node.js](https://github.com/nodejs/node) · *Committer*
 Contributed `Socket.prototype.resetAndDestroy` — TCP RST-based socket teardown.
