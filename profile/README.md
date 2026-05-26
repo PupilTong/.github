@@ -4,8 +4,6 @@
 
 **Senior Software Engineer at ByteDance**
 
-![GitHub](https://img.shields.io/badge/GitHub-PupilTong-181717?style=flat-square&logo=github&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
