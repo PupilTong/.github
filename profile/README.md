@@ -1,18 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-This is **Haoyang Wang**.
+# Hi, I'm Haoyang Wang 👋
 
-I'm a software engineer working for ByteDance at Shanghai.
+**Senior Software Engineer at ByteDance**
 
-Currently I'm focusing on the Web development tech stack, including Typescript, WASM, Rust, Node.js, HTML, CSS and etc.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WASM](https://img.shields.io/badge/-WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript) ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)  ![WASM](https://img.shields.io/badge/-WASM-000?style=for-the-badge&logo=webassembly) ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react) ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css)
+</div>
 
-Before the Lynx's Web Platform project, I also experienced on implementing React libs, Javascript bundler, vscode language services, DSL parser and etc.
+## Projects
 
-Feel free to create an issue here https://github.com/PupilTong/.github/issues
+### [Lynx Web Platform](https://github.com/lynx-family) · *Project Owner*
+Open-source web runtime built with **Rust** and **WebAssembly**.
 
-<!-- Copy-paste in your Readme.md file -->
+### [Node.js](https://github.com/nodejs/node) · *Committer*
+Contributed `Socket.prototype.resetAndDestroy` — TCP RST-based socket teardown.
+
+### [js-sys](https://github.com/rustwasm/wasm-bindgen) · *Committer*
+Contributed `WeakRef` JavaScript bindings.
+
+<div align="center">
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12288479" target="_blank" style="display: block" align="center">
   <picture>
@@ -21,4 +34,4 @@ Feel free to create an issue here https://github.com/PupilTong/.github/issues
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+</div>
