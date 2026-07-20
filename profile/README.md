@@ -2,7 +2,7 @@
 
 This is **Haoyang Wang**.
 
-I'm a software engineer working for ByteDance at Shanghai.
+I'm a software engineer working for ByteDance.
 
 Currently I'm focusing on the Web development tech stack, including Typescript, WASM, Rust, Node.js, HTML, CSS and etc.
 
